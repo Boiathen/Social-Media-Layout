@@ -1,0 +1,89 @@
+.top-head1{
+  text-align: center;
+  margin: 5px;
+  color: #E0E0E0;
+}
+.account-1{
+  width: 20%;
+  color:black; 
+  text-align: left;
+  padding: 5px;
+  margin: 10px;
+  margin-right:100px;
+  float: right;
+}
+
+.bio-1{
+  text-align: left;
+  width: 20%;
+  float: left;
+  color: black;
+  margin: 10px;
+  padding: 5px;
+}
+
+.feed-1{
+  width: 25%;
+  margin:0;
+  padding: 5px;
+  color: black;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+body{
+  background-color: #808080;
+  font-size: 25px;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  font-weight: bold;
+
+}
+.elon{
+  height: 7%;
+  width: 45%;
+  border-radius: 90%;
+}
+.dk{
+  height: 25%;
+  width: 45%;
+  border-radius: 50%;
+}
+.the-papa{
+   height:10%;
+  width: 45%;
+  border-radius: 90%;
+}
+.kfc{
+  height:10%;
+  width: 45%;
+  border-radius: 90%;
+}
+.bio-chad{
+  height: auto;
+  width: 50%;
+  border-radius: 0%;
+  float: left;
+}
+.suit{
+  width: 50%;
+  height: 50%;
+}
+.pfp{
+  border-radius: 50%;
+  height: 7%;
+  width: 7%;
+  margin: 5px;
+}
+.hike{
+  width: 98%;
+  height: auto;
+  margin: 5px;
+}
+.gym{
+  height: auto;
+  width: 98%;
+}
+.everything{
+  display: flex;
+  justify-content: center;
+}
